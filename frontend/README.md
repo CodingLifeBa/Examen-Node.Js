@@ -1,7 +1,7 @@
+Cette partie frontend est réalisé avec du React
 Examen final 
 Sujet 
-Proposer une plateforme de gestion d’une bibliothèque avec Node.js, Express et une 
-base de données SQLite.
+Proposer une plateforme de gestion d’une bibliothèque 
  Dans la plateforme, on doit pouvoir faire les action suivantes:
  1) Ajouter un livre dans la liste des livres disponibles
  2) Lister les livres disponibles dans la bibliothèque
